@@ -6,7 +6,4 @@ In this repo lies the source code (both client and server) of the iOS app "VK Ex
 
 Screenshots:
 
-![1](/Screenshots/1.PNG)
-![2](/Screenshots/2.png)
-![3](/Screenshots/3.png)
-![4](/Screenshots/4.png)
+<img src="/Screenshots/1.PNG" width="220"/> <img src="/Screenshots/2.PNG" width="220"/> 
