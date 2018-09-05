@@ -6,3 +6,7 @@ In this repo lies the source code (both client and server) of the iOS app "VK Ex
 
 Screenshots:
 
+![1][/Screenshots/1.png ""]
+![2][/Screenshots/2.png ""]
+![3][/Screenshots/3.png ""]
+![4][/Screenshots/4.png ""]
