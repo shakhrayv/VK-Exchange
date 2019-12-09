@@ -11,7 +11,7 @@ In this repository I store the source code (both the client and the server) for 
 
 #### Screenshots
 
-<img src="/Screenshots/1.PNG" width="220"/> <img src="/Screenshots/2.PNG" width="220"/> <img src="/Screenshots/3.PNG" width="220"/>
+<img src="/static/1.PNG" width="220"/> <img src="/static/2.PNG" width="220"/> <img src="/static/3.PNG" width="220"/>
 
 ### Architecture - iOS
 
