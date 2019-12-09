@@ -21,13 +21,17 @@ The iOS app was built in Objective-C using powerful tools and 3-rd party librari
 
 In case the required method was not available by `VK SDK`, I had to implement one by my own, primarily using the `AFNetworking` Cocoapod.
 
+<img src="/static/login.jpeg" width="220"/>
+
 **Analytics**
 
 When dealing with a user base of that size, it was important for me to ensure that proper analytics tools are embedded in the app. For that, I've successfully relied on `Flurry-iOS-SDK` pod.
 
 **Ads**
 
-As a way of monetization, I've used *Vungle* framework as a main ads provider.
+As a way of monetization, I've used *Vungle* framework as a main ads provider. I've also used in-app purchases as a way to get in-app currency.
+
+<img src="/static/inapp.jpeg" width="220"/>
 
 **Other**
 
